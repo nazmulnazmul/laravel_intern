@@ -3,4 +3,4 @@
 URL: /admin/login
 
 ## for Super Admin login route
-url: /superadmin/login
+URL: /superadmin/login
