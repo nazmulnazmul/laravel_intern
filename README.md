@@ -1,3 +1,6 @@
  
 ## for Admin login route
-/admin/login
+url: /admin/login
+
+## for Super Admin login route
+url: /superadmin/login
